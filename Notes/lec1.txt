@@ -1,0 +1,29 @@
+set of libs, functionality
+
+angular is a JS framework
+client side application 
+single page application
+
+is used for UI design
+
+diff architecture 
+
+model architecture
+reuseability
+less code than react
+devlopment is quicker and easiser
+unit testable
+google + microsoft backbone of angular
+    version update latest version 17
+    1st ver 2010 named angular js 
+
+    17.0.2 semantic versioning
+    2 is minor update -bug fix
+    0 is major update
+
+    angular CLI compiler npm install -g @angular/cli
+        create ng new application-name
+        ng serve
+    npm ,node js
+
+    no need to refresh
