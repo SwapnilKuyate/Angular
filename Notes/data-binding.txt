@@ -1,0 +1,21 @@
+Data Binding 
+
+    
+    
+
+    One Way Binding
+        interpolation Binding {{}}  
+        property Binding [] - used in toggle button
+        event Binding (click)="fun()"
+    
+    2 Way Binding 
+
+        import in app.module.ts:
+             import { FormsModule } from '@angular/forms'; // for 2 way binding 
+        
+        import in imports 
+            imports: [
+                BrowserModule,
+                AppRoutingModule,
+                FormsModule // for 2 way binding 
+            ],

@@ -22,8 +22,10 @@ google + microsoft backbone of angular
     0 is major update
 
     angular CLI compiler npm install -g @angular/cli
-        create ng new application-name
-        ng serve
-    npm ,node js
+    create angular app: ng new app-name --no-standalone 
+    run angular app: ng serve
+    install typescript: npm install typescript -g
+    
+    dependancies: npm ,node js
 
     no need to refresh
